@@ -1,6 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xIbq4TFL)
-
-
 # 💰 Personal Finance Tracker API
 
 A **finance management system** built with **Node.js, Express, MongoDB, and JWT authentication**.  
@@ -10,7 +7,7 @@ It allows users to **manage transactions, set budgets, track goals, and receive 
 
 ## **📌 Features**
 ✅ **User Authentication** – Register, Login, JWT-based security
-✅ **Multi-Currency Support** – Currency conversion using Frankfurter API  
+✅ **Multi-Currency Support** – Currency conversion using Frankfurter API
 ✅ **Recurring Transactions** – Automate future transactions  
 ✅ **Budget Management** – Track spending by category  
 ✅ **Financial Goals** – Set savings goals and track progress  
