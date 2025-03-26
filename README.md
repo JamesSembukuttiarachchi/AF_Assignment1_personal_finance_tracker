@@ -5,15 +5,15 @@ It allows users to **manage transactions, set budgets, track goals, and receive 
 
 ---
 
-## **📌 Features**
-✅ **User Authentication** – Register, Login, JWT-based security
-✅ **Multi-Currency Support** – Currency conversion using Frankfurter API
-✅ **Recurring Transactions** – Automate future transactions  
-✅ **Budget Management** – Track spending by category  
-✅ **Financial Goals** – Set savings goals and track progress  
-✅ **Notifications** – Get alerts for upcoming transactions and budget limits  
-✅ **Reports & Analytics** – Generate financial summaries  
-✅ **Full Test Coverage** – Unit & Integration tests with Jest & Supertest  
+## 📌 Features
+✅ **User Authentication** – Register, Login, JWT-based security <br>
+✅ **Multi-Currency Support** – Currency conversion using Frankfurter API <br>
+✅ **Recurring Transactions** – Automate future transactions <br>
+✅ **Budget Management** – Track spending by category <br>
+✅ **Financial Goals** – Set savings goals and track progress <br>
+✅ **Notifications** – Get alerts for upcoming transactions and budget limits <br>
+✅ **Reports & Analytics** – Generate financial summaries <br>
+✅ **Full Test Coverage** – Unit & Integration tests with Jest & Supertest
 
 ---
 
